@@ -28,5 +28,13 @@ public class Main {
         int speed = 5;
         int batteryDrain = 2;
         var car = new NeedForSpeed(speed, batteryDrain);
+
+        int distance = 100;
+        var race = new RaceTrack(distance);
+
+        System.out.println(car.distanceDriven() + " => 0");
+        System.out.println(race.tryFinishTrack(car) + " => true");
+        System.out.println(car.distanceDriven() + " => 100");
+
     }
 }

@@ -7,6 +7,9 @@ public class RaceTrack {
     }
 
     public boolean tryFinishTrack(NeedForSpeed car) {
-        throw new RuntimeException("xd");
+        while (!car.batteryDrained() && car.distance < this.distance) {
+            car.drive();
+        }
+        return car.distance > this.distance;
     }
 }
