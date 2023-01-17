@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_basics/basics/Lasagna/Lasagna.iml" filepath="$PROJECT_DIR$/Java_basics/basics/Lasagna/Lasagna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_basics/array_cond_loop/array_cond_loop.iml" filepath="$PROJECT_DIR$/Java_basics/array_cond_loop/array_cond_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_basics/basics/basics.iml" filepath="$PROJECT_DIR$/Java_basics/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp_java.iml" filepath="$PROJECT_DIR$/bootcamp_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/classes/classes.iml" filepath="$PROJECT_DIR$/OOP/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_basics/data_types/data_types.iml" filepath="$PROJECT_DIR$/Java_basics/data_types/data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_basics/lists/lists.iml" filepath="$PROJECT_DIR$/Java_basics/lists/lists.iml" />
+    </modules>
+  </component>
+</project>
