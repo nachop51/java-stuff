@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/bootcamp_java.iml" filepath="$PROJECT_DIR$/bootcamp_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/classes/classes.iml" filepath="$PROJECT_DIR$/OOP/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_basics/data_types/data_types.iml" filepath="$PROJECT_DIR$/Java_basics/data_types/data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/OOP/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_basics/lists/lists.iml" filepath="$PROJECT_DIR$/Java_basics/lists/lists.iml" />
     </modules>
   </component>
